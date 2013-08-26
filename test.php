@@ -2,6 +2,6 @@
 
   $var = "Hello Git";
 
-  print($var);
+  print("$var\n");
 
 ?>
