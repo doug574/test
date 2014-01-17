@@ -1,6 +1,6 @@
 <?php
   // this is a comment
-  $var = "Hello Git";
+  $var = "Hello World";
 
   print("$var\n");
 
